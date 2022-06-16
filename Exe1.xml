@@ -1,0 +1,41 @@
+<?xml version="1.0"  ?>
+<?xml-stylesheet type="text/xsl" href="Exe1.xsl"?>
+<book>
+    <ISBN>EXAM 1: </ISBN>
+    <title>State Data</title>
+    <author>
+        <fistname>Pham</fistname>
+        <lastname>Tuan Ngoc</lastname>
+    </author>
+    <chapters>
+        <preface>
+            <name>Population</name>
+            <capital>Capital</capital>
+            <bird>Bird</bird>
+            <flower>Flower</flower>
+            <Area>Area</Area>
+        </preface>
+        <chapter>
+            <name>338411 people</name>
+            <capital>Sacracment</capital>
+            <bird>Quail</bird>
+            <flower>Golden Poppy</flower>
+            <Area>15569 square miles</Area>
+        </chapter>
+        <chapter>
+            <name>6349097 people</name>
+            <capital>Boston</capital>
+            <bird>Chickadee</bird>
+            <flower>Mayflower</flower>
+            <Area>87512 square miles</Area>
+        </chapter>
+        <chapter>
+            <name>18922 people</name>
+            <capital>Albanet</capital>
+            <bird>Bluebird</bird>
+            <flower>Rose</flower>
+            <Area>1689 square miles</Area>
+        </chapter>
+
+    </chapters>
+</book>

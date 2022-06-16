@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/css" href="Exa2.css"?>
+<book>
+    <bookdetail>
+        <titledetail>
+            <title>Exam 2 - Pham Tuan Ngoc</title>
+
+        </titledetail>
+
+</bookdetail>
+
+             <id1>
+                 NAME:
+               <name> David Blake</name>
+                 AGE:
+                 <age>32</age>
+                 Your Commision is:
+                 <prices>$500.</prices>
+             </id1>
+            <id2>
+                NAME:
+                <name> Susan Jones</name>
+                AGE:
+                <age>55</age>
+                Your Commision is:
+                <prices>$5000.</prices>
+            </id2>
+            <id3>
+                NAME:
+                <name> Martin Howell</name>
+                AGE:
+                <age>25</age>
+                Your Commision is:
+                <prices>$0.</prices>
+            </id3>
+            <id4>
+                NAME:
+                <name> Tony Kemp</name>
+                AGE:
+                <age>35</age>
+                Your Commision is:
+                <prices>$5000.</prices>
+            </id4>
+
+
+</book>

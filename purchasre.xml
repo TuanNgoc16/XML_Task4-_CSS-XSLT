@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="purchase.xsl"?>
+<PurchaseOrder>
+    <PONumber>AP-23423</PONumber>
+    <PODate>18-Feb-2003</PODate>
+    <Seller>David</Seller>
+    <Buyer>John</Buyer>
+    <DeliveryDate>30-Feb-2005</DeliveryDate>
+    <ShipTo>
+        <Name>Codelean</Name>
+        <Street>23234,street</Street>
+        <CityZip>Lavide,ds</CityZip>
+        <Coountry>USA</Coountry>
+    </ShipTo>
+    <BillTo>
+        <Name>Chelsea Inf</Name>
+        <Street>Dnaa,street</Street>
+        <CityZip>Ondex,ds</CityZip>
+        <Coountry>USA</Coountry>
+    </BillTo>
+    <Products>
+        <Name>Monitor</Name>
+        <Quantity>21</Quantity>
+        <Price>$141.32</Price>
+    </Products>
+    <Products>
+        <Name>Monitor2</Name>
+        <Quantity>20</Quantity>
+        <Price>$111.32</Price>
+    </Products>
+    <Products>
+        <Name>Monitor3</Name>
+        <Quantity>3</Quantity>
+        <Price>$11.32</Price>
+    </Products>
+    <Instructions>
+        <Instruction> The Vat number and the invoice should be split between the net value</Instruction>
+    </Instructions>
+</PurchaseOrder>

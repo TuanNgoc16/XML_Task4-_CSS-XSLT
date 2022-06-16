@@ -1,0 +1,37 @@
+<?xml version="1.0"  ?>
+<?xml-stylesheet type="text/xsl" href="book2.xsl"?>
+<book>
+    <ISBN>101-45956-54-48</ISBN>
+    <title>David XML Bible</title>
+    <author>
+        <fistname>Pham</fistname>
+        <lastname>Tuan Ngoc</lastname>
+    </author>
+    <chapters>
+        <preface>
+            <name>Welcome</name>
+            <number>1</number>
+            <pages>2</pages>
+        </preface>
+        <chapter>
+            <name>Hello</name>
+            <number>10</number>
+            <pages>252</pages>
+        </chapter>
+        <chapter>
+            <name>Hello</name>
+            <number>10</number>
+            <pages>252</pages>
+        </chapter>
+        <chapter>
+            <name>XML</name>
+            <number>101</number>
+            <pages>2</pages>
+        </chapter>
+        <chapter>
+            <name>Data</name>
+            <number>5</number>
+            <pages>16</pages>
+        </chapter>
+    </chapters>
+</book>

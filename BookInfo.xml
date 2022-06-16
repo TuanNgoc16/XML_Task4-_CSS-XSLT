@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/css" href="bookinfo.css"?>
+<book>
+    <bookdetail>
+        <titledetail>
+            <title>Head first java,2nd edition</title>
+            <authors>Kathy Sierra, Bert Bates</authors>
+           (<EditionInfo>PaperBack</EditionInfo>-
+            <PrintDate>Feb 9, 2005</PrintDate>)
+            </titledetail>
+        <price>
+            New Price:
+            <newprice>$29.67</newprice>
+            Old Price:
+            <oldprice>$18.67</oldprice>
+        </price>
+        <orderinfo>
+            Get it by
+            <getdate>Tuesday, feb,27</getdate>, if you order in the next
+            <hours>57 hours and</hours>
+            <minutes>43 minutes</minutes>
+        </orderinfo>
+        <edition> Other Editions:
+            <editiontype>PaperBack</editiontype>
+        </edition>
+    </bookdetail>
+
+    <bookdetail>
+        <titledetail>
+            <title>Effective Java Programming Language</title>
+            <authors>Joshua</authors>
+            (<EditionInfo>PaperBack</EditionInfo>-
+            <PrintDate>Jun 1, 2005</PrintDate>)
+            </titledetail>
+        <price>
+            New Price:
+            <newprice>$45.67</newprice>
+            Old Price:
+            <oldprice>$10.67</oldprice>
+        </price>
+        <orderinfo>
+            Get it by
+            <getdate>Tuesday, feb,27</getdate>, if you order in the next
+            <hours>31 hours and</hours>
+            <minutes>19 minutes</minutes>
+        </orderinfo>
+        <edition> Other Editions:
+            <editiontype>PaperBack</editiontype>
+        </edition>
+    </bookdetail>
+
+    <bookdetail>
+        <titledetail>
+            <title>Sun certified Programmer for Java 5 study guide (exam 310-005)</title>
+            <authors>Kathy Sierra, Bert Bates</authors>
+            (<EditionInfo>PaperBack</EditionInfo>-
+            <PrintDate>Jun 1, 2005</PrintDate>)
+            </titledetail>
+        <price>
+            New Price:
+            <newprice>$29.67</newprice>
+            Old Price:
+            <oldprice>$11.67</oldprice>
+        </price>
+        <orderinfo>
+            Get it by
+            <getdate>Monday, feb,17</getdate>, if you order in the next
+            <hours>99 hours and</hours>
+            <minutes>20 minutes</minutes>
+        </orderinfo>
+        <edition> Other Editions:
+            <editiontype>PaperBack</editiontype>
+        </edition>
+    </bookdetail>
+
+    <bookdetail>
+        <titledetail>
+            <title>Beginning Program Width Java for dummies </title>
+            <authors>Barry burd</authors>
+            (<EditionInfo>PaperBack</EditionInfo>-
+            <PrintDate>April 1, 2003</PrintDate>)
+            </titledetail>
+        <price>
+            New Price:
+            <newprice>$11.2</newprice>
+            Old Price:
+            <oldprice>$8.7</oldprice>
+        </price>
+        <orderinfo>
+            Get it by
+            <getdate>Tuesday, feb,27</getdate>, if you order in the next
+            <hours>10 hours and</hours>
+            <minutes>41 minutes</minutes>
+        </orderinfo>
+        <edition> Other Editions:
+            <editiontype>PaperBack</editiontype>
+        </edition>
+    </bookdetail>
+
+    <bookdetail>
+        <titledetail>
+            <title> java,2nd edition</title>
+            <authors> Bert Bates</authors>
+            (<EditionInfo>PaperBack</EditionInfo>-
+            <PrintDate>Feb 9, 2005</PrintDate>)
+            </titledetail>
+        <price>
+            New Price:
+            <newprice>$39.2</newprice>
+            Old Price:
+            <oldprice>$9.17</oldprice>
+        </price>
+        <orderinfo>
+            Get it by
+            <getdate>Monday, feb,7</getdate>, if you order in the next
+            <hours>17 hours and</hours>
+            <minutes>13 minutes</minutes>
+        </orderinfo>
+        <edition> Other Editions:
+            <editiontype>PaperBack</editiontype>
+        </edition>
+    </bookdetail>
+
+
+
+
+
+</book>
